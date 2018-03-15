@@ -1,6 +1,6 @@
 # BigGC
 
-Programming language based on the one-liners of omeone special. This was forked from ArnoldC and modified. (https://github.com/lhartikk/ArnoldC)
+Programming language based on the one-liners of someone special. This was forked from ArnoldC and modified. (https://github.com/lhartikk/ArnoldC)
 The following ReadMe is modified for this language.
 
 ## Motivation
